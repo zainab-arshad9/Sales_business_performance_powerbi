@@ -1,230 +1,145 @@
-**# 📊 Sales \& Business Performance Dashboard — Power BI**
+<div align="center">
 
+# 📊 Sales & Business Performance Dashboard
+### Power BI | End-to-End Business Intelligence Project
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-**An interactive Power BI dashboard designed to analyze sales performance, product performance, customer insights, territory performance, and budget vs actual results.**
+*An interactive dashboard that transforms raw business data into actionable insights across sales, products, customers, territory, and budget performance.*
 
+![Dashboard Preview](dashboard_preview.png)
 
+</div>
 
-**## 📌 Project Overview**
+---
 
+## 📖 Table of Contents
+- [Project Overview](#-project-overview)
+- [Dashboard Pages](#-dashboard-pages)
+- [Tools & Skills](#️-tools--skills)
+- [Preview Gallery](#-preview-gallery)
+- [Key Learnings](#-key-learnings)
+- [Author](#-author)
 
+---
 
-**This project transforms business data into an interactive dashboard that allows users to explore key performance indicators and identify trends across different areas of the business.**
+## 📌 Project Overview
 
+This project turns business data into a fully interactive Power BI dashboard, giving stakeholders a single place to explore KPIs, spot trends, and drill into performance across five connected areas of the business — from top-line revenue down to individual product and territory performance.
 
+The goal wasn't just to visualize numbers, but to build something a real sales or operations team could open and immediately answer their own questions with — no analyst required.
 
-**The dashboard consists of five main analytical pages:**
+---
 
+## 🗂️ Dashboard Pages
 
+### 1️⃣ Sales Overview
+A high-level command center for business health:
+| Metric | Metric |
+|---|---|
+| Revenue | Sales Trends |
+| Profit | Category Performance |
+| Profit Margin | Territory Performance |
+| Orders | |
 
-**### 1. Sales Overview**
+### 2️⃣ Product Analysis
+Product-level performance breakdown:
+- Top and bottom-performing products
+- Category & subcategory comparisons
+- Product profitability
+- Color/variant comparisons
 
+### 3️⃣ Customer Insights
+Understanding who's buying and why:
+- Occupation & income
+- Gender & marital status
+- Cars owned (demographic segmentation)
 
+### 4️⃣ Territory Analysis
+Geographic performance comparison across regions, powered by an interactive map visual.
 
-**Provides an overall view of business performance through:**
+### 5️⃣ Budget vs Actual
+Performance accountability tracking:
+- Budget attainment
+- Variance analysis
+- Monthly actual vs. budget
+- Cumulative performance over time
 
+---
 
+## 🛠️ Tools & Skills
 
-**\* Revenue**
+`Power BI` · `DAX` · `Power Query` · `Data Modeling` · `KPI Design` · `Data Storytelling` · `Interactive Dashboard Design` · `Business Analytics`
 
-**\* Profit**
+---
 
-**\* Profit Margin**
+## 🖼️ Preview Gallery
 
-**\* Orders**
+<table>
+<tr>
+<td width="50%">
 
-**\* Sales trends**
+**Sales Overview**
+![Sales Overview](screenshots/sales_overview.png)
 
-**\* Category performance**
+</td>
+<td width="50%">
 
-**\* Territory performance**
+**Product Analysis**
+![Product Analysis](screenshots/product_analysis.png)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
+**Customer Insights**
+![Customer Insights](screenshots/customer_insights.png)
 
-**### 2. Product Analysis**
+</td>
+<td width="50%">
 
+**Territory Analysis**
+![Territory Analysis](screenshots/territory.png)
 
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-**Analyzes product-level performance, including:**
+**Budget vs Actual**
+![Budget vs Actual](screenshots/budget_vs_actual.png)
 
+</td>
+</tr>
+</table>
 
+---
 
-**\* Top and bottom-performing products**
+## 🎯 Key Learnings
 
-**\* Categories**
+Building this project strengthened my hands-on experience in:
+- 📐 KPI development & measure design
+- 🔍 Interactive filtering and drill-down UX
+- 📊 Data visualization best practices
+- 📈 Business performance analysis
+- 🎨 Dashboard layout & design
+- 🧮 DAX-based analytical modeling
 
-**\* Subcategories**
+---
 
-**\* Product profitability**
+## 👩‍💻 Author
 
-**\* Color/product comparisons**
+**Zainab Arshad**
+*Business Data Analytics Student*
 
+---
 
+<div align="center">
 
-**### 3. Customer Insights**
+⭐ **If you found this project interesting, feel free to explore the dashboard and leave feedback!**
 
-
-
-**Provides insights into customer characteristics and purchasing patterns, including:**
-
-
-
-**\* Occupation**
-
-**\* Income**
-
-**\* Gender**
-
-**\* Marital status**
-
-**\* Cars owned**
-
-
-
-**### 4. Territory Analysis**
-
-
-
-**Examines geographic performance and compares sales across different territories.**
-
-
-
-**### 5. Budget vs Actual**
-
-
-
-**Compares actual performance against budget through:**
-
-
-
-**\* Budget attainment**
-
-**\* Variance analysis**
-
-**\* Monthly actual vs budget**
-
-**\* Cumulative performance**
-
-
-
-**## 🛠️ Tools \& Skills**
-
-
-
-**\* Microsoft Power BI**
-
-**\* DAX**
-
-**\* Data Visualization**
-
-**\* Business Intelligence**
-
-**\* KPI Analysis**
-
-**\* Business Analytics**
-
-**\* Data Storytelling**
-
-**\* Interactive Dashboard Design**
-
-
-
-**## 📷 Dashboard Preview**
-
-
-
-**!\[Dashboard Preview](dashboard\_preview.png)**
-
-
-
-**## 📊 Dashboard Pages**
-
-
-
-**### Sales Overview**
-
-
-
-**!\[Sales Overview](screenshots/sales\_overview.png)**
-
-
-
-**### Product Analysis**
-
-
-
-**!\[Product Analysis](screenshots/product\_analysis.png)**
-
-
-
-**### Customer Insights**
-
-
-
-**!\[Customer Insights](screenshots/customer\_insights.png)**
-
-
-
-**### Territory Analysis**
-
-
-
-**!\[Territory Analysis](screenshots/territory.png)**
-
-
-
-**### Budget vs Actual**
-
-
-
-**!\[Budget vs Actual](screenshots/budget\_vs\_actual.png)**
-
-
-
-**## 🎯 Key Learning Outcomes**
-
-
-
-**Through this project, I developed practical experience in transforming business data into interactive visualizations and using dashboards to communicate performance insights.**
-
-
-
-**The project strengthened my understanding of:**
-
-
-
-**\* KPI development**
-
-**\* Interactive filtering**
-
-**\* Data visualization**
-
-**\* Business performance analysis**
-
-**\* Dashboard design**
-
-**\* DAX-based analysis**
-
-
-
-**## 👩‍💻 Project Author**
-
-
-
-**\*\*Zainab Arshad\*\***
-
-
-
-**Business Data Analytics Student**
-
-
-
-**---**
-
-
-
-**⭐ If you found this project interesting, feel free to explore the dashboard and leave feedback!**
-
-
+</div>
 
